@@ -1,0 +1,13 @@
+Choose the best data type for each of the following so that any reasonable value is
+accommodated but no memory storage is wasted. Give an example of a typical value
+that would be held by the variable, and explain why you chose the type you did.
+a. the number of siblings you have		| Byte	|3		|no hay nadie que tenga mas de 1280hermanos
+b. your final grade in this class		| Float	|6.5		|las calificaciones van del 0 al 10 con decimales
+c. the population of Earth			| Int	|7,300,000,000	|la poblacion mundial actual no supera los 10 digitos
+d. the population of a U.S. county		| Int	|323,100,000	|es menor a la anterior
+e. the number of passengers on a bus		| Byte	|100-120	|no supera los 128
+f. one player’s score in a Scrabble game	| Short	|300		|el record es 300
+g. one team’s score in a Major League		| 	|		|
+Baseball game					| Byte	|1		|no superan los 128
+h. the year an historical event occurred	| Short	|2001		|falta para pasar el 32767
+i. the number of legs on an animal		| Byte	|4		|la mayoria tiene 4 o menos patas
