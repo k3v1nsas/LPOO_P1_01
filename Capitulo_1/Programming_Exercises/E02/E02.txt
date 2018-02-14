@@ -1,0 +1,15 @@
+2. Name at least three attributes that might be appropriate for each of the following
+classes:
+a. CruiseShip
+	Numero_de_Pasajeros;
+	Numero_de_Habitaciones;
+	Tiempo_de_Navegacion;
+b. InsurancePolicy
+	ID_cliente;
+	ID_empleado;
+	Tipo_de_Seguro;
+c. StudentAcademicRecord
+	Nombre_del_Alumno;
+	Matricula_del_Alumno;
+	Carga_de_Materias;
+	Calificaciones;

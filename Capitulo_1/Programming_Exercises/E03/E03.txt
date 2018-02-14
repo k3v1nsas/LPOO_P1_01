@@ -1,0 +1,13 @@
+3. Name at least three objects that are instances of each of the following classes:
+a. Song
+	Mr.P-Mosh;
+	La_Dosis_Perfecta;
+	Iron_Man;
+b. BaseballTeam
+	Warriors;
+	Bulls;
+	Lakers;
+c. Playwright
+	Emilio_Carballido;
+	Hector_Mendoza;
+	Sergio_Magaña;

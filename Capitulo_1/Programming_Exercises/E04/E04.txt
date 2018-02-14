@@ -1,0 +1,13 @@
+4. Name at least three classes to which each of these objects might belong:
+a. myRedSweater
+	class	Mi_Ropa;
+	class	Abrigos;
+	class	Prendas;
+b. londonEngland
+	class	Ciudades_de_Europa;
+	class	Ciudades_de_los_juegos_olimpicos;
+	class	Ciudades_TOP;
+c. thursdaysDinner
+	class	Pollo;
+	class 	Puerco;
+	class	Pizza;
